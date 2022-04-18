@@ -1,0 +1,46 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WCRO Token",
+      "symbol": "WCRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "MMF Token",
+      "symbol": "MMF",
+      "address": "0x97749c9B61F878a880DfE312d2594AE07AEd7656",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cultcroswap.com/images/tokens/0x30B8274C3b452d6D5af4dedC3464C18E65dDeC64.png"
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://cultcroswap.com/images/tokens/0x30B8274C3b452d6D5af4dedC3464C18E65dDeC64.png"
+    },
+    {
+      "name": "CULT Token",
+      "symbol": "CULT",
+      "address": "0x5430FFebB5fA7C7f54414De435a010898118Bc19",
+      "chainId": 25,
+      "decimals": 9,
+      "logoURI": "https://cultcroswap.com/images/tokens/0x30B8274C3b452d6D5af4dedC3464C18E65dDeC64.png"
+    }
+  ]
+}
